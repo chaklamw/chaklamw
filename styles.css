@@ -16,6 +16,10 @@ a:hover {
     color: #2d6cdf;
 }
 
+section {
+    padding: 4rem 2rem;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #121212;
