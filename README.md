@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Maryland, College Park interested in software development and building practical applications.
 
-🌐 **[Portfolio](https://chaklamw.github.io/)**  
+🌐 **[Portfolio](https://chaklamw.github.io/chaklamw)**  
 💼 **[LinkedIn](https://linkedin.com/in/chak-lam-wong)**  
 📧 **chaklam.wongg@gmail.com**
 
