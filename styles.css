@@ -50,6 +50,13 @@ nav {
 
 .hero {
     padding-top: 0rem;
+    text-align: center;
+}
+
+.hero p {
+    max-width: 700px;
+    margin: 0 auto;
+    font-size: 1.1rem;
 }
 
 @media (prefers-color-scheme: dark) {
